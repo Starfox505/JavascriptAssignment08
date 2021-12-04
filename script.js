@@ -30,4 +30,6 @@ console.log(
 console.log(
   "What concepts were new to you and what concepts had you encountered already in the past?"
 );
-console.log("");
+console.log(
+  "I honestly did not know any of the concepts that I encountered over the course. All of the material was very fresh and new to me, and while it was difficult there were a lot of concepts to grasp. Therefore, it just took a lot of trial and error, a lot of practice, and a bunch of questions, and finally I do feel confident in my use of Javascript"
+);
