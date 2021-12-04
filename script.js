@@ -20,7 +20,9 @@ console.log(
 // what you expected to learn in this course?
 
 console.log("Did you learn what you expected to learn in this course?");
-console.log("");
+console.log(
+  "I felt like I learned a lot in this course, and honestly a lot more than I was expecting. Going in I was told by someone that Javascript is a piece of cake, and I quickly realized that is definitely not the case. I struggle quite a bit in the course, but overall I learned a lot more than I thought!"
+);
 
 // 4. Write a console.log() statement that answers the following question: What concepts
 // were new to you and what concepts had you encountered already in the past?
